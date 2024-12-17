@@ -1,0 +1,469 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.814);
+        
+    }
+
+.p1{
+    font-size: 25px;
+    padding-left: 670px;
+    color: white;
+}
+
+.button2 {
+    background-color: #ffd500;
+    border: none;
+    color: black;
+    padding: 10px 40px;
+          
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 6px 120px;
+    padding-left: 50px;
+    margin-left: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+  .h1{
+    color:  #ffd500;
+    font-family: "Brush Script MT";
+    font-size: 100px;
+     padding-left: 120px;  
+     margin-top: -70px;
+    padding-right: 150px;
+        
+}
+.img2{
+    margin-top: -190px;
+    float: left;
+    height: 940px;
+    
+}
+
+
+.content{
+       margin-top: 300px;
+       border: 2px solid white;
+       background-color: white;
+        padding-top: 60px;
+           
+    }
+    .h2{
+        font-family: "Brush Script MT";
+         font-size: 60px;
+          padding-top: 20px;
+        }
+
+    .p2{
+       font-size: 18px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;     
+    }
+
+    .img3{
+       padding-left: 10px;
+        
+    }
+    .img4{
+        padding-left: 40px;
+    
+    }
+    .img5{
+        padding-left: 60px;
+        
+    }
+    .hamp{
+        padding-left: 380px;
+        float: left;
+         font-family: "Brush Script MT";
+          font-size: xx-large;
+        }
+    .text{
+         float: right; 
+           padding-right: 370px;
+          font-family: "Brush Script MT";
+          font-size: xx-large;
+        }
+    .fluid{
+       padding-left: 620px;
+       font-family: "Brush Script MT";
+       font-size: xx-large;
+       
+    }
+    .wamp{
+        padding-left: 345px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        float: left;      
+    }
+    .hand{
+        text-align: center;
+        float: left;
+        padding-left: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       
+    }
+      
+    .land{
+         padding-left: 60px; 
+        float: left;
+        text-align: center;    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+    .data{
+        padding-top: 160px;    
+        
+    }
+   .hold{
+    padding-left: 40px;
+    float: left;
+    
+   }
+    .img6{
+        padding-left: 100px;
+        border-top: 12px solid white ;
+         float: left;
+         margin-top: -100px;
+        }
+    .black{
+        color: #ffc001;
+        font-family: "Brush Script MT";
+        font-size: 80px;
+         padding-right: 50px;  
+    }
+    .para{
+        color: white;
+        font-size: 23px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;         
+    }
+    .button3 {
+        background-color: #ffc001;
+        border: none;
+        color: black;
+        padding: 10px 40px;
+        
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 20px 3px;
+        margin-right: -140px;   
+        cursor: pointer;
+        border-radius: 3px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    }
+    .fluid2{
+        padding-top: 10px;
+        padding-right: 20px;
+        color:  #ffc001;
+        font-family: "Brush Script MT";
+         font-size: 80px;       
+    }
+    .circle1{
+        padding-right: 40px;
+    }
+    .circle2{
+        padding-right: 40px;
+    }
+    .circle3{
+        padding-right: 40px;
+    }
+    .circle4{
+        padding-right: -60px;
+        
+    }
+    .temp{
+        font-family: "Brush Script MT";
+        color:#ffc001;
+        font-size: 70px;
+        padding-top: 120px;
+        padding-left: 100px;
+        
+    }
+    .para1{
+        color: white;
+        font-size: 22px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        padding-left: 100px;        
+        float: left;
+    }
+    .button1 {
+        background-color: #ffc001;
+        border: none;
+        color: black;
+        padding: 10px 50px;
+        
+        text-decoration: none;
+        
+        font-size: 16px;
+        margin: 130px -370px;   
+           
+        cursor: pointer;
+        border-radius: 3px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+         float: left;
+    }
+    .img7{
+        padding: -380px;
+        padding-left: 300px;
+        margin: -120px;
+         color: white;
+        
+        }
+    #about{
+        background-color: white;
+        border-width: 300px;
+    }
+
+    .comment{
+         margin-top: 20px;
+        box-shadow: white;
+    }
+    .psl{
+        padding-right: 390px;
+    }
+
+    .psl1{
+        padding-left: 60px;
+    }
+
+    .tree{
+        padding-right: 920px;
+        margin-top: -190px;
+    }
+    .tmb{
+        margin-top: -130px;
+    }
+    .psl2{
+        padding-left: -150px;
+    }
+    .ora{
+        padding-left: 710px;
+        margin-top: -80px;
+    }
+    .PKL{
+        padding-left: 380px;
+        padding-top: -14px;
+        height: 100px;
+    }
+    .ora1{
+        padding-right: 190px;
+       float: left;
+       padding-top: 20px;
+    }
+    .gap{
+        padding-right: 120px;
+        float: left;
+    }
+    .ora2{
+        padding-right: 130px;
+        padding-top: 20px;
+         display:inline-block;
+    }
+    #about{
+        padding-top: 85px;
+        background-color: white;
+        border-bottom: 2px solid white;
+       margin-top: 70px;
+    }
+    .container1 {
+        position: relative;
+        width: 50%;
+      }
+      
+      .image {
+          
+        width: 1345px;
+        height: 500px;
+      }
+      
+      .overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 500px;
+        width: 1345px;
+        opacity: 0;
+        transition: .5s ease;
+        background-color:#ffd901;
+      }
+      
+      .container1:hover .overlay {
+        opacity: 0.8;
+      }
+      
+      .text1 {
+        color: black;
+        font-size: 40px;
+        font-family: "Brush Script MT";
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+      }
+      .tire{
+        text-align: center;
+        font-size: 22px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         padding-top: 140px;  
+    }
+      .contain{
+        background-color: rgba(255, 255, 255, 0.938);
+        padding-bottom: 190px;  
+    }
+      .had{
+        font-family: "Brush Script MT";
+         font-size: 60px;  
+         padding-top: 2px;
+    }
+    .try{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 23px;
+    }
+    .input1{
+        background-color:#ffbb01;
+    border: none;
+    color: black;
+    padding: 7px 40px;
+    
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px -8px;
+    padding-left: 30px;
+    cursor: pointer;
+    border-radius: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    
+    }
+    .flash{
+        color: white;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 10px;
+        padding-top: -30px;
+         float: left;
+         padding-left: 80px;
+        
+    }
+    .fly{
+        font-size: 20px;
+        padding-top: 15px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .history{
+        color: white;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 10px;
+        padding-top: -30px;
+         float: left;
+         padding-left: 190px;
+        }
+    .dam{
+        color: white;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 10px;
+        float: left;
+        padding-left: 80px;
+        
+    }
+    .cure{
+        color: white;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 10px;
+       padding-left: 1050px;
+       padding-top: -70px;    
+    }
+    .fa-instagram {
+        padding: 10px;
+       font-size: 25px;
+       width: 50px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50%;
+      
+      color: black;
+      background-color: white;  
+    }
+     .fa-facebook{
+        padding: 10px;
+       font-size: 25px;
+       width: 50px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50%;
+      
+      color: black;
+      background-color: white;
+     } 
+     .fa-twitter{
+        padding: 10px;
+       font-size: 25px;
+       width: 50px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50%;
+      
+      color: black;
+      background-color: white;
+     }
+     .fa-whatsapp{
+        padding: 10px;
+       font-size: 25px;
+       width: 50px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 50%;
+      
+      color: black;
+       background-color: white;
+    }
+    .nas{
+        padding-bottom: 280px;
+       padding-top: 170px;
+        
+    }
+    .camp{
+        padding-left: 402px;
+        padding-top: -60px;
+    }
+    .camp1{
+        padding-left: 370px;
+        padding-top: 20px;
+    }
+    .camp2{
+        padding-top: 80px;
+        padding-left: 402px;
+        float: left;
+    }
+    .camp3{
+        padding-left: 250px;
+        padding-top: 110px;
+        float: left;
+    }
+    .ral{
+        padding-left: 180px;
+        margin-bottom: -300px;
+    }
+    .ral2{
+        padding-top: -130px;
+        padding-left: 150px;
+       
+    }
+    .trunk{
+        padding-right: 920px;
+        margin-top: -170px;
+    }
+    .same{
+        margin-top: -190px;
+    }
+    
